@@ -1,0 +1,34 @@
+{
+    "photo_video_dest": "/Users/brandon.baek/Desktop/Media/Photos and Videos",
+    "gif_dest": "/Users/brandon.baek/Desktop/Media/GIFs",
+    "document_dest": "/Users/brandon.baek/Documents",
+    "file_types": {
+        "Images": {
+            "extensions": [
+                ".jpg",
+                ".jpeg",
+                ".png",
+                ".gif",
+                ".HEIC"
+            ],
+            "destination": "/Users/brandon.baek/Pictures"
+        },
+        "Documents": {
+            "extensions": [
+                ".pdf",
+                ".doc",
+                ".docx",
+                ".txt"
+            ],
+            "destination": "/Users/brandon.baek/Documents"
+        },
+        "Videos": {
+            "extensions": [
+                ".mp4",
+                ".mov",
+                ".avi"
+            ],
+            "destination": "/Users/brandon.baek/Movies"
+        }
+    }
+}

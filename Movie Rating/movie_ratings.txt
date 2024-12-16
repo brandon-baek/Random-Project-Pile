@@ -1,0 +1,213 @@
+Dune Part Two
+lina - 5
+nathan - 5
+brian -
+brandon - 5
+brynn -
+
+SPLIT
+
+Interstellar
+lina - 5
+nathan - 4
+brian -
+brandon - 5
+brynn -
+
+SPLIT
+
+The Martian
+lina - 5
+nathan - 4
+brian -
+brandon - 5
+brynn -
+
+SPLIT
+
+Barbie
+lina - 3
+nathan - 1
+brian -
+brandon - 4
+brynn -
+
+SPLIT
+
+Wall-e
+lina - 5
+nathan - 3
+brian -
+brandon - 5
+brynn -
+
+SPLIT
+
+Up
+lina - 5
+nathan - 5
+brian -
+brandon - 5
+brynn -
+
+SPLIT
+
+La La Land
+lina - 4
+nathan - 3
+brian -
+brandon - 5
+brynn -
+
+SPLIT
+
+Gran Turismo
+lina -
+nathan - 3
+brian -
+brandon -
+brynn -
+
+SPLIT
+
+Super Mario Bros
+lina - 3
+nathan - 3
+brian -
+brandon - 3
+brynn -
+
+SPLIT
+
+The Hunger Games
+lina - 5
+nathan - 3
+brian -
+brandon - 4
+brynn -
+
+SPLIT
+
+Cars
+lina - 5
+nathan - 4
+brian -
+brandon - 3
+brynn -
+
+SPLIT
+
+The Matrix
+lina - 4
+nathan - 5
+brian -
+brandon -
+brynn -
+
+SPLIT
+
+Whiplash
+lina - 4
+nathan - 5
+brian -
+brandon - 5
+brynn -
+
+SPLIT
+
+Mission Impossible: Dead Reckoning
+lina - 5
+nathan - 4
+brian -
+brandon - 4
+brynn -
+
+SPLIT
+
+Inside Out 1
+lina - 5
+nathan - 5
+brian -
+brandon - 4
+brynn -
+
+SPLIT
+
+Frozen 2
+lina - 4
+nathan - 3
+brian -
+brandon - 4
+brynn -
+
+SPLIT
+
+Frozen 1
+lina - 5
+nathan - 3
+brian -
+brandon - 4
+brynn -
+
+SPLIT
+
+The Maze Runners
+lina - 4
+nathan - 4
+brian -
+brandon - 4
+brynn -
+
+SPLIT
+
+Spiderman: No Way Home
+lina - 4
+nathan - 3
+brian -
+brandon - 5
+brynn -
+
+SPLIT
+
+Everything Everywhere All At Once
+lina - 4
+nathan - 3
+brian -
+brandon - 5
+brynn -
+
+SPLIT
+
+Top Gun 2
+lina - 4
+nathan - 5
+brian -
+brandon - 3
+brynn -
+
+SPLIT
+
+Coco
+lina - 5
+nathan - 5
+brian -
+brandon - 4
+brynn -
+
+SPLIT
+
+Harry Potter And The Sorcerer's Stone
+lina - 5
+nathan - 3
+brian -
+brandon - 2
+brynn -
+
+SPLIT
+
+Sonic The Hedgehog
+lina -
+nathan - 2
+brian -
+brandon - 2
+brynn -
